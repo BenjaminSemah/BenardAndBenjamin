@@ -39,3 +39,11 @@ strong {
     margin-right: 25%;
     margin-left: 25%;
 }
+#image {
+    width: 100%;
+    height: auto;
+  }
+  
+.footer {
+    background:white;
+}
