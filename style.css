@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background: rgb(179, 169, 169);
+    text-align: center;
+
+}
+#title {
+    font-weight: bold;
+    font: size 2em;
+
+
+}
